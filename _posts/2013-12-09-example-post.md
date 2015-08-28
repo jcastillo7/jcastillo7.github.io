@@ -6,9 +6,9 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Introducing Andrew Castillo, Mechanical Engineer Extraordinaire
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+Andrew Castillo has interests in materials and mechanical design. His hobbies include guitar, crossfit and cooking for his needy girlfirend.  [The Development](http://thedevelopment.co).
 
 ## Open Sourced on GitHub
 
