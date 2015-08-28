@@ -2,7 +2,7 @@
 layout: post
 title: Example post
 cover: cover.jpg
-date:   2015-08-28 12:00:00
+date:   2015-28-08 12:00:00
 categories: posts
 ---
 
